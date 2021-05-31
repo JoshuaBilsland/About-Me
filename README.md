@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaxonForged
-- 👀 I’m interested in video games, computers, hacking and programming.
+- 👀 I’m interested in computers, hacking and programming.
 - 🌱 I’m currently learning programming with python, HTML and ethical hacking/cyber security. 
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on python projects and find work
 - 📫 How to reach me RaxonForged@protonmail.com
 
 <!---
