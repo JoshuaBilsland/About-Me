@@ -1,3 +1,19 @@
+# Contents <!-- omit from toc -->
+- [Default Points](#default-points)
+- [Introduction \& Purpose](#introduction--purpose)
+- [Path, Goals \& Career Aims](#path-goals--career-aims)
+- [Repos Categorised](#repos-categorised)
+  - [GCSE](#gcse)
+    - [Overview](#overview)
+    - [Repos](#repos)
+  - [A-Levels](#a-levels)
+    - [Overview](#overview-1)
+    - [Repos](#repos-1)
+  - [Post A-Levels](#post-a-levels)
+    - [Overview](#overview-2)
+    - [Repos](#repos-2)
+
+
 # Default Points
 - 👋 Hi, I’m Joshua Bilsland. I studied computer science and IT for GCSEs and for A-levels.
 - 👀 I’m interested in programming, cyber security and anything else computer related.
