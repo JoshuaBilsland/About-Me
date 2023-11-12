@@ -31,3 +31,15 @@ Going into A-Levels, I continued learning about cyber security and pen testing. 
 - https://github.com/JoshuaBilsland/css-exercises
 - https://github.com/JoshuaBilsland/Draughts-with-AI
 - https://github.com/JoshuaBilsland/password-generator
+
+## Post A-Levels
+### Overview
+I finished my A-Levels with an A in computer science and a Distinction* in IT. I decided not to go the university route for multiple reasons and instead plan to go for an apprenticeship instead. A few weeks after I finished my exams, I got a job as a production operative. I wanted to first get a job so that I could earn some money to put towards eventually doing my apprenticeship (courses, books, laptop, learning to drive, etc.). I am currently still working and doing programming in my spare time. The repos below have been created since I left school. As well as doing more programming projects, I am also reading books and watching videos to learn new computer science and programming things. I intend to start working my way through https://teachyourselfcs.com/ soon, which contains a collection of resources to learn about various areas of computer science. I also plan to complete 'The Open Source University' (https://github.com/ossu/computer-science) which is designed to be equivalent to a degree. If I manage to get an apprenticeship, I will do this either at the same time (if that is manageable since OSSU advises you aim for 20 hours a week) or once I have completed the apprenticeship and I am hopefully working full-time as a software developer. If I am struggling to get an apprenticeship (once I am ready to start applying for them), I will likely do it just to learn more and hopefully improve my chances of getting one by gaining more knowledge and showing I can go out of my way to learn more, as well as commit to meeting the OSSU progress/time targets. In a similar way, I have been learning more about conventions (git, Python, etc.) to help my chances by making it easier for me to start working as part of a team and in a professional environment. See https://github.com/JoshuaBilsland/my-conventions to look at the conventions I am trying to follow from now on.
+### Repos
+- https://github.com/JoshuaBilsland/notes-and-practice
+- https://github.com/JoshuaBilsland/tkinter-four-function-calculator
+- https://github.com/JoshuaBilsland/data-structures-and-algorithms
+- https://github.com/JoshuaBilsland/cli-currency-converter
+- https://github.com/JoshuaBilsland/my-conventions
+- https://github.com/JoshuaBilsland/cli-hangman
+- https://github.com/JoshuaBilsland/notion-notes-renamer
