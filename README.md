@@ -20,3 +20,14 @@ This section contains my repos that were created during my GCSE years. As mentio
 - https://github.com/JoshuaBilsland/Card_Game
 - https://github.com/JoshuaBilsland/Text_To_Speech
 - https://github.com/JoshuaBilsland/PortswiggerAcademyNotes
+
+## A-Levels
+### Overview
+Going into A-Levels, I continued learning about cyber security and pen testing. I also got a Raspberry Pi 4 for my birthday, which I used to run Linux distributions rather than a virtual machine. Although I was enjoying it, I was struggling to find the time to dedicate to it due to the workload of A-Levels. I was also learning more advanced programming in my computer science lessons and found that now I was learning more about programming, it was much more fun than the stuff I had been doing and a more realistic career for me to aim for. While I was doing my coursework project (https://github.com/JoshuaBilsland/Draughts-with-AI), I decided to focus on software development as my focus and the career I wanted to aim for. My next step was to work out which type of software development I wanted to do. Since I had been learning about pen testing web applications, I started trying out web development. I started 'The Odin Project' and I enjoyed it to begin with, but I never really found HTML and CSS that interesting and preferred actual programming. I had tried game development through my coursework project by making a GUI draughts game with an AI opponent and enjoyed that a lot, but game development felt more like something I would like to do as a hobby, and I had not heard great things about it as a career (although I wouldn't say no), so I settled on focusing on desktop application development.
+### Repos
+- https://github.com/JoshuaBilsland/Codewars
+- https://github.com/JoshuaBilsland/TheOdinProject
+- https://github.com/JoshuaBilsland/odin-recipes
+- https://github.com/JoshuaBilsland/css-exercises
+- https://github.com/JoshuaBilsland/Draughts-with-AI
+- https://github.com/JoshuaBilsland/password-generator
