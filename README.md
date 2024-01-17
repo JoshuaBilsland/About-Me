@@ -59,3 +59,4 @@ I finished my A-Levels with an A in computer science and a Distinction* in IT. I
 - https://github.com/JoshuaBilsland/my-conventions
 - https://github.com/JoshuaBilsland/cli-hangman
 - https://github.com/JoshuaBilsland/notion-notes-renamer
+- https://github.com/JoshuaBilsland/100-days-of-code
