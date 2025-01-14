@@ -59,3 +59,5 @@ I finished my A-Levels with an A in Computer Science and a Distinction* in IT. I
 - https://github.com/JoshuaBilsland/100-days-of-code
 - https://github.com/JoshuaBilsland/flask-chat-room
 - https://github.com/JoshuaBilsland/advent-of-code
+- https://github.com/JoshuaBilsland/flaskr
+- https://github.com/JoshuaBilsland/library-management-system
