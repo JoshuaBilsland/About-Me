@@ -12,6 +12,9 @@
   - [Post A-Levels](#post-a-levels)
     - [Overview](#overview-2)
     - [Repos](#repos-2)
+  - [University](#university)
+    - [Overview](#overview-3)
+    - [Repos](#repos-3)
 
 
 # Default Points
@@ -61,3 +64,13 @@ I finished my A-Levels with an A in Computer Science and a Distinction* in IT. I
 - https://github.com/JoshuaBilsland/advent-of-code
 - https://github.com/JoshuaBilsland/flaskr
 - https://github.com/JoshuaBilsland/library-management-system
+- https://github.com/JoshuaBilsland/personal-finance-tracker
+- https://github.com/JoshuaBilsland/progress-tracker
+
+## University
+### Overview
+Projects that I have made during my time at university to practice the different languages and techniques I have learnt/am learning.
+### Repos
+- https://github.com/JoshuaBilsland/mad-libs-game
+- https://github.com/JoshuaBilsland/shopping-cart
+- https://github.com/JoshuaBilsland/banking-program
