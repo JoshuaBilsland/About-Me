@@ -1,4 +1,7 @@
 # <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> Hi, I'm Joshua Bilsland
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 I am a computer science student currently studying at university ([UEA](https://www.uea.ac.uk/)). I started with an interest in cybersecurity and pen testing, but building a GUI draughts game with an AI opponent for my end-of-year A-level project sparked my passion for software development and programming more generally. After working alongside production line machinery and robots during my two gap years, I developed an interest in the code that makes these machines run, as well as low-level programming and electronics, and so I am currently getting started learning about those areas.
 
